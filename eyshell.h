@@ -41,7 +41,6 @@ char *_string_copy(char *d, char *s);
 int _var_compare(char *variable, char *e);
 int _string_length(const char *c);
 int _string_compare(const char *string1, const char *string2);
-void deletee(char *x);
 int main(int argc, char *argv[]);
 
 #endif
